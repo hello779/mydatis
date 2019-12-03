@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mydatis:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mydatis.war">
+      <element id="artifact" artifact-name="mydatis:war exploded" />
+    </root>
+  </artifact>
+</component>
